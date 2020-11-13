@@ -3,8 +3,3 @@ Collection of Science Comics for the [Bertalanffy Lecture](https://www.cos.uni-h
 
 ## Latest Strip
 ![](Last_comic_preview.png)
-
-
-## List of Comics
-
-
